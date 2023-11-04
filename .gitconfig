@@ -1,0 +1,7 @@
+[init]
+	defaultBranch = master
+[user]
+	email = victor.flament@protonmail.com
+	name = Lepotototor
+[safe]
+	directory = /home/lepotototor/Documents/DicordBot/First
